@@ -1,0 +1,5 @@
+<manifest>
+<project path="device/lge/d855" name="DimitriMayakovsky/twrp_device_lge_d855" remote="github" revision="android-4.4" />
+<project path="kernel/lge/g3" name="DimitriMayakovsky/android_kernel_lge_g3" remote="github" revision="cm-14.1" />
+<project path="device/qcom/common" name="DimitriMayakovsky/android_device_qcom_common/" remote="github" revision="cm-14.1" />
+</manifest>
