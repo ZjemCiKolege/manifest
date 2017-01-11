@@ -3,5 +3,5 @@
 <project path="device/lge/d855" name="CypherOS/device_lge_d855" remote="github" revision="n7.1" />
 <project path="kernel/lge/g3" name="CypherOs/kernel_lge_g3" remote="github" revision="n7.1" />
 <project path="vendor/lge" name="CypherOS/proprietary_vendor_lge" remote="github" revision="n7.1" />
-<project path="device/qcom/common" name="CypherOS/android_device_qcom_common/" remote="github" revision="n7.1" />
+<project path="device/qcom/common" name="CypherOS/device_qcom_common/" remote="github" revision="n7.1" />
 </manifest>
