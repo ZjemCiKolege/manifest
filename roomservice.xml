@@ -1,6 +1,6 @@
 <manifest>
 
-<project path="device/lge/g3-common" name="DimitriMayakovsky/android_device_lge_g3-common" remote="github" revision="testt" />
+<project path="device/lge/g3-common" name="DimitriMayakovsky/android_device_lge_g3-common" remote="github" revision="cm-14.1" />
 <project path="device/lge/d855" name="DimitriMayakovsky/android_device_lge_d855" remote="github" revision="cm-14.1" />
 <project path="kernel/lge/g3" name="DimitriMayakovsky/android_kernel_lge_g3" remote="github" revision="cm-14.1" />
 <project path="vendor/lge" name="DimitriMayakovsky/proprietary_vendor_lge" remote="github" revision="cm-14.1" />
