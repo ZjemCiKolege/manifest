@@ -1,5 +1,4 @@
 <manifest>
 <project path="device/lge/d855" name="TeamWin/android_device_lge_d855" remote="github" revision="cm-14.1" />
 <project path="device/qcom/common" name="LineageOS/android_device_qcom_common/" remote="github" revision="cm-14.1" />
- <project path="vendor/qcom/opensource/cryptfs_hw" name="LineageOS/android_vendor_qcom_opensource_cryptfs_hw" remote="github" revision="cm-14.1" />
 </manifest>
