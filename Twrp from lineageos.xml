@@ -1,6 +1,4 @@
 <manifest>
-<project path="device/lge/d855" name="DimitriMayakovsky/twrp_devices" remote="github" revision="cm-14.1" />
-<project path="device/qcom/common" name="LineageOS/android_device_qcom_common/" remote="github" revision="cm-14.1" />
-<remove-project name="android_bootable_recovery"/>
-<project path="bootable/recovery" name="DimitriMayakovsky/twrp_recovery"  remote="github" revision="android-7.1" />
+<project path="device/lge/d855" name="DimitriMayakovsky/twrp_devices" remote="github" revision="android-6.0" />
+<project path="device/qcom/common" name="Teamwin/android_device_qcom_common/" remote="github" revision="android-6.0" />
 </manifest>
