@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!-- Replaced projects -->
+
+		<remove-project name="Lineageos/android_frameworks_av" />
+		<project name="fourkbomb/android_frameworks_av" path="frameworks/av" remote="github" revision="cm-14.1-rebase" />
+
+		<remove-project name="Lineageos/android_frameworks_native" />
+		<project name="fourkbomb/android_frameworks_native" path="frameworks/native" remote="github" revision="cm-14.1-rebase" />
+
+		<remove-project name="Lineageos/android_hardware_libhardware" />
+		<project name="fourkbomb/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-14.1-rebase" />
+
+	<!-- /Replaced projects -->
+
+	<!-- Devices -->
+		<!-- i9300 -->
+			<project name="Lineageos/android_device_samsung_i9300" path="device/samsung/i9300" remote="github" revision="cm-14.1"  />
+			<project name="Lineageos/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-14.1"  />
+			<project name="Lineageos/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1"  />
+			<project name="Lineageos/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-14.1"  />
+			<project name="Lineageos/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1"  />
+			<project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+
+			<remove-project name="Lineageos/android_hardware_samsung" />
+			<project name="fourkbomb/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1-rebase" />
+
+			<remove-project name="Lineageos/android_kernel_samsung_smdk4412" />
+			<project name="fourkbomb/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-14.1-rebase" />
+		<!-- /i9300 -->
+	<!-- /Devices -->
+</manifest>
