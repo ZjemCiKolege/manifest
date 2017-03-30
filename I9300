@@ -5,9 +5,6 @@
 		<remove-project name="Lineageos/android_frameworks_av" />
 		<project name="fourkbomb/android_frameworks_av" path="frameworks/av" remote="github" revision="cm-14.1-rebase" />
 
-		<remove-project name="Lineageos/android_frameworks_native" />
-		<project name="fourkbomb/android_frameworks_native" path="frameworks/native" remote="github" revision="cm-14.1-rebase" />
-
 		<remove-project name="Lineageos/android_hardware_libhardware" />
 		<project name="fourkbomb/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-14.1-rebase" />
 
