@@ -4,7 +4,7 @@
 		<remove-project name="LineageOS/android_frameworks_av" />
 		<project name="fourkbomb/android_frameworks_av" path="frameworks/av" remote="github" revision="cm-14.1-rebase" />
 		<remove-project name="LineageOS/android_hardware_libhardware" />
-		<project name="fourkbomb/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-14.1-rebase" />
+		<project name="DimitriMayakovsky/android_hardware_libhardware" path="hardware/libhardware" remote="github" revision="cm-14.1" />
 		<project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
 	<!-- /Replaced projects -->
 
