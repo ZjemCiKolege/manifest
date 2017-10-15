@@ -4,4 +4,5 @@
 <project path="kernel/lge/g3" name="ZjemCiKolege/android_kernel_lge_g3" remote="github" revision="lineage-15.0" />
 <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="lineage-15.0" />
 <project path="device/qcom/common" name="LineageOS/android_device_qcom_common/" remote="github" revision="lineage-15.0" />
+<project path="external/sony/boringssl-compat" name="ZjemCiKolege/external_sony_boringssl-compat" remote="github" revision="oreo" />  
 </manifest>
