@@ -1,11 +1,7 @@
 <manifest>
 
-<project path="device/xiaomi/mido" name="ZjemCiKolege/android_device_xiaomi_mido" remote="github" revision="lineage-16.0-4.9" />
-
-<project path="device/xiaomi/msm8953-common" name="Flex1911/android_device_xiaomi_msm8953-common/" remote="github" revision="lineage-16.0-4.9" />
-
-<project path="kernel/xiaomi/msm8953" name="Flex1911/android_kernel_xiaomi_msm8953-1" remote="github" revision="lineage-16.0-4.9" />
-
-<project path="vendor/xiaomi" name="Flex1911/proprietary_vendor_xiaomi" remote="github" revision="lineage-16.0" />
+<project path="device/xiaomi/mido" name="zeelog/android_device_xiaomi_mido" remote="github" revision="lineage-17.1" />
+<project path="kernel/xiaomi/mido" name="ZjemCiKolege/android_kernel_xiaomi_mido" remote="github" revision="patch-1" />
+<project path="vendor/xiaomi" name="zeelog/proprietary_vendor_xiaomi" remote="github" revision="lineage-17.1" />
 
 </manifest>
