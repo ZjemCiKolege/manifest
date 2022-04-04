@@ -1,7 +1,0 @@
-<manifest>
-
-<project path="device/xiaomi/mido" name="zeelog/android_device_xiaomi_mido" remote="github" revision="lineage-17.1" />
-<project path="kernel/xiaomi/mido" name="ZjemCiKolege/android_kernel_xiaomi_mido" remote="github" revision="patch-1" />
-<project path="vendor/xiaomi" name="zeelog/proprietary_vendor_xiaomi" remote="github" revision="lineage-17.1" />
-
-</manifest>
